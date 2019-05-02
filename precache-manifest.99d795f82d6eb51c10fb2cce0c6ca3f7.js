@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "17637fee6fbd2e374a68",
+    "revision": "a6951c856e95a598ab14",
     "url": "/react-tweet/static/css/main.8eefd537.chunk.css"
   },
   {
-    "revision": "17637fee6fbd2e374a68",
-    "url": "/react-tweet/static/js/main.1d2b93ad.chunk.js"
+    "revision": "a6951c856e95a598ab14",
+    "url": "/react-tweet/static/js/main.5f222cab.chunk.js"
   },
   {
     "revision": "86bd336a1cb5c9a6994c",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/react-tweet/static/js/2.65aa1cca.chunk.js"
   },
   {
-    "revision": "abcab031aa5578dd38e339205acc92b1",
+    "revision": "0c161f1f782eaa3f21df3a734c5753ec",
     "url": "/react-tweet/index.html"
   }
 ];
