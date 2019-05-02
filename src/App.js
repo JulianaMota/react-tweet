@@ -32,8 +32,7 @@ class App extends Component {
             tweets: data.statuses
           });
         });
-    }else{
-      
+    } else {
     }
   };
   render() {
@@ -45,6 +44,7 @@ class App extends Component {
           type="text"
           onChange={this.hastagChange}
           name="search"
+          placeholder="hastag"
           value={this.state.hastag}
         />
         <TweetList tweets={this.state.tweets} />

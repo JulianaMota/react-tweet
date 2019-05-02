@@ -4,7 +4,7 @@ export default function User(props) {
   return (
     <header className="user">
       <img src={props.userinfo.profile_image_url} />
-      <h1>@{props.userinfo.screen_name}</h1>
+      <h2>@{props.userinfo.screen_name}</h2>
       <h3>{props.userinfo.location}</h3>
     </header>
   );

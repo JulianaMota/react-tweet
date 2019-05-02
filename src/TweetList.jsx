@@ -8,7 +8,7 @@ export default function TweetList(props) {
   });
   return (
     <section className="tweetlist">
-      <h1>I am TweetList</h1>
+      <h1>Find Tweets by hastag</h1>
       {myTweets}
     </section>
   );
